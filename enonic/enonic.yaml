@@ -1,0 +1,6 @@
+kind: "Application"
+type: "Static"
+description: "Static Application Starter"
+title: "Static Application"
+vendorName: "Enonic AS"
+vendorUrl: "https://enonic.com"
